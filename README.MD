@@ -2,5 +2,5 @@ I made this Power BI Interactive Dashabord to analyze weekly group performance b
 
 The goal of this dashboard is to provide a clear and structured view of weekly activity patterns.
 
-Replaced classified data as dummy data.
+Replaced old company's classified data as dummy data.
 
